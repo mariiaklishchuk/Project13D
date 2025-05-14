@@ -1,0 +1,14 @@
+{
+  "headerText": "Welcome to Cat Store!",
+  "bannerImage": "https://cataas.com/cat/cute/says/Welcome",
+  "infoSections": [
+    {
+      "title": "Our Values",
+      "content": "We believe in cozy naps, fluffy friends, and full bellies."
+    },
+    {
+      "title": "Shipping Info",
+      "content": "We ship worldwide with love, whiskers, and purrs."
+    }
+  ]
+}
