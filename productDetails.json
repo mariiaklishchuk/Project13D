@@ -1,0 +1,21 @@
+{
+    "women": {
+      "name": "Women's Dress",
+      "description": "A beautifully tailored dress made from high-quality silk. Designed for the modern woman.",
+      "price": "349.99",
+      "image": "assets/LAWomen.png"
+    },
+    "men": {
+      "name": "Men's Suit",
+      "description": "A sleek, comfortable suit perfect for business and formal occasions.",
+      "price": "599.99",
+      "image": "assets/LAMen.png"
+    },
+    "kids": {
+      "name": "Kids' Outfit",
+      "description": "Fun, playful, and durable fashion for kids of all ages.",
+      "price": "199.99",
+      "image": "assets/LAKids.png"
+    }
+  }
+  

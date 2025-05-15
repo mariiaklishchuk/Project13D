@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="author" content="Noire Luxe" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product Detail - Noire Luxe</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Playfair Display', serif;
+      background-color: #bfd1d3;
+      padding: 20px;
+      color: #333;
+    }
+    .product-container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      padding: 30px;
+    }
+    .product-image {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+      border-radius: 10px;
+    }
+    h1 {
+      margin-top: 20px;
+      font-size: 36px;
+    }
+    p {
+      font-size: 18px;
+      margin: 15px 0;
+    }
+    .price {
+      font-weight: bold;
+      font-size: 22px;
+      color: #8c98ad;
+      margin-bottom: 20px;
+    }
+    .back-link {
+      display: inline-block;
+      margin-top: 30px;
+      text-decoration: none;
+      color: #8c98ad;
+      font-weight: bold;
+      border: 2px solid #8c98ad;
+      padding: 10px 20px;
+      border-radius: 6px;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    .back-link:hover {
+      background-color: #8c98ad;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="product-container">
+    <a href="class1w.html" class="back-link">← Back to Landing Page</a>
+
+    <img src="" alt="" class="product-image" id="productImage" />
+    <h1 id="productName"></h1>
+    <p id="productDescription"></p>
+    <p class="price" id="productPrice"></p>
+  </div>
+
+  <script src="shopByCollection.js"></script>
+</body>
+</html>

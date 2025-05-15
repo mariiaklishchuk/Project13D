@@ -1,0 +1,22 @@
+
+{
+    "women": {
+      "name": "Elegant Women's Dress",
+      "description": "A beautifully tailored dress made from high-quality silk. Designed for the modern woman.",
+      "price": "249.99",
+      "image": "assets/CollectionWomen.png"
+    },
+    "men": {
+      "name": "Men's Premium Suit",
+      "description": "A sleek, comfortable suit perfect for business and formal occasions.",
+      "price": "399.99",
+      "image": "assets/CollectionMen.png"
+    },
+    "kids": {
+      "name": "Stylish Kids' Outfit",
+      "description": "Fun, playful, and durable fashion for kids of all ages.",
+      "price": "99.99",
+      "image": "assets/CollectionKids.png"
+    }
+  }
+  

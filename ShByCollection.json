@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bags",
+    "title": "Elegant Bags",
+    "imageUrl": "assets/collections/bags.jpg",
+    "link": "https://example.com/bags"
+  },
+  {
+    "id": "shoes",
+    "title": "Luxury Shoes",
+    "imageUrl": "assets/collections/shoes.jpg",
+    "link": "https://example.com/shoes"
+  },
+  {
+    "id": "jewelry",
+    "title": "Statement Jewelry",
+    "imageUrl": "assets/collections/jewelry.jpg",
+    "link": "https://example.com/jewelry"
+  }
+]

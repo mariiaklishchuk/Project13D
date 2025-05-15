@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "title": "Gold-Plated Cuff",
+    "price": 180,
+    "imageUrl": "assets/latest/cuff.jpg",
+    "link": "https://example.com/cuff"
+  },
+  {
+    "id": 102,
+    "title": "Cashmere Coat",
+    "price": 550,
+    "imageUrl": "assets/latest/coat.jpg",
+    "link": "https://example.com/coat"
+  },
+  {
+    "id": 103,
+    "title": "Velvet Loafers",
+    "price": 300,
+    "imageUrl": "assets/latest/loafers.jpg",
+    "link": "https://example.com/loafers"
+  }
+]
